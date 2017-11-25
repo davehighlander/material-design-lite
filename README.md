@@ -14,6 +14,8 @@ static content websites. It doesn't rely on any JavaScript frameworks or
 libraries. Optimized for cross-device use, gracefully degrades in older
 browsers, and offers an experience that is accessible from the get-go.
 
+[how to trade bitcoin for cash](http://technologywatchpost.com/how-to-trade-bitcoin-for-cash/)
+
 > ### Limited support
 
 > Material Design Lite is now in limited support, with development having moved to the
@@ -23,6 +25,8 @@ browsers, and offers an experience that is accessible from the get-go.
 > push out new releases. No breaking changes will be accepted.
 
 ## Use MDL on your site?
+
+[technology news and resources](http://technologywatchpost.com)
 
 **This document is targeted at developers that will contribute to or compile
 MDL. If you are looking to use MDL on your website or web app please head to
@@ -39,6 +43,8 @@ A-grade browsers are fully supported. B-grade browsers will gracefully degrade
 to our CSS-only experience.
 
 ### Download / Clone
+
+[trade bitcoin for profit](http://technologywatchpost.com/trade-bitcoin-profit-make-money/)
 
 Clone the repo using Git:
 
